@@ -1,3 +1,10 @@
+## Vercel deploy
+<p align="center">
+  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhatimeria%2Fgraphcommerce%2Ftree%2Fcanary%2Fexamples%2Fmagento-graphcms&demo-title=GraphCommerce%20PWA%20demo%20with%20Vercel%20by%20Hatimeria&demo-url=https%3A%2F%2Fgraphcommerce-demo.vercel.app%2F"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
+</p>
+<br />
+
+## GraphCommerce
 <p align="center">
     <a href="https://www.graphcommerce.org/"><img src="https://graphcommerce.vercel.app/favicon.svg" alt="GraphCommerce Logo"/></a>
 </p>
